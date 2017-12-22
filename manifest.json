@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "name": "Chrome ShifDance",
+  "name": "ShiffDance Chrome Extension",
   "version": "0.1",
   "web_accessible_resources": [
     "shifdance/*.gif"
