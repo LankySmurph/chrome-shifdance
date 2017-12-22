@@ -1,4 +1,4 @@
-# ShifDance Chrome Extension
+# ShiffDance Chrome Extension
 
 Chrome extension that replaces all images on the internet with Daniel Shiffman Dancing. (To the best of my abilities (I'm a beginner :D))
 
